@@ -27,3 +27,9 @@
 .idea/
 *.swp
 *.swo
+
+# Don't ignore these files
+!*/src/**/*.js
+!*/src/**/*.jsx
+!*/src/**/*.css
+!*/public/**/*
